@@ -9,5 +9,7 @@ run_diffstructures.py: The script used to run simulations with the sampled struc
 
 sulfur.ipynb: The script used to calculate the RMSD for the sulfur residues and the distance from the protein centre.
 
+angles.ipynb: The main script used for angular RMSD calculations for the whole protein.
+
 
 A link to my thesis will be posted here as well once it is uploaded on DiVA :)
